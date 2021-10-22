@@ -2,14 +2,7 @@ name: Build, Test, Lint
 
 on: [push]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v1
-    - name: Run Makefile build for Development
-      run: make build-dev
-  
+jobs: 
   test:
     runs-on: ubuntu-latest
     steps:
