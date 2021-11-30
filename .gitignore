@@ -131,3 +131,8 @@ dmypy.json
 
 __MACOSX/
 csci-544-project/data/pubmed-dataset*
+
+# CSV Data
+/notebooks/*.csv
+/csci-544-project/data/*.txt
+/csci-544-project/data/*.pkl
