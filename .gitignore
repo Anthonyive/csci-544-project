@@ -137,3 +137,4 @@ csci-544-project/data/pubmed-dataset*
 /csci-544-project/data/*.txt
 /csci-544-project/data/*.pkl
 csci-544-project/data/arxiv-dataset*
+notebooks/output/
